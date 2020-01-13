@@ -128,7 +128,7 @@
 			ENDCG
 		}
 
-		// Shadow casting support.
-        UsePass "Legacy Shaders/VertexLit/SHADOWCASTER"
+		// Shadow casting support.  使用Unity阴影pass
+       UsePass "Legacy Shaders/VertexLit/SHADOWCASTER"
 	}
 }
